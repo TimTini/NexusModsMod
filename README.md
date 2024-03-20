@@ -1,4 +1,4 @@
-**Cài đặt từ file bên ngoài (định dạng file zip)**
+**Cài đặt tiện ích mở rộng (extension) từ file bên ngoài (định dạng file zip)**
 - Tải phần source này về và lưu vào một thư mục.
 - Truy cập vào quản lý ứng dụng Chrome Extension bằng cách:
   + Nhấn vào biểu tượng 3 chấm ở góc phải trên Chrome.
