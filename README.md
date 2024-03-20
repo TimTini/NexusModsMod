@@ -10,3 +10,5 @@
 
 
 **Khi dùng extension này thì nhớ phải luôn cho phép mở Vortex**
+![image](https://github.com/TimTini/NexusModsMod/assets/48094158/d8f6a422-0408-4394-bea1-ae9e3b943bb1)
+
