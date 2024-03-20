@@ -7,3 +7,6 @@
   + Chọn “Công cụ khác” (More tools) và sau đó chọn “Tiện ích” (Extensions).
 - Đánh dấu vào ô “Developer Mode”.
 - Kéo thả thư mục đã giải nén vào trang quản lý của Extension để hoàn thành cài đặt.
+
+
+**Khi dùng extension này thì nhớ phải luôn cho phép mở Vortex**
