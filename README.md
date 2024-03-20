@@ -1,3 +1,5 @@
+**Phải cằi đặt Vortex** trước khi sử dụng
+
 **Cài đặt tiện ích mở rộng (extension) từ file bên ngoài (định dạng file zip)**
 - Tải phần source này về giải nén file zip ra một thư mục.
 - Truy cập vào quản lý ứng dụng Chrome Extension bằng cách:
