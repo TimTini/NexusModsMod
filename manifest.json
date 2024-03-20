@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Nexusmods Support",
+    "version": "1.0",
+    "description": "Enhanced Nexusmods Support for quick downloads and seamless browsing experience.",
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "host_permissions": [
+        "https://*.nexusmods.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.nexusmods.com/*"
+            ],
+            "all_frames": true,
+            "js": [
+                "contentScript.js"
+            ]
+        }
+    ]
+}

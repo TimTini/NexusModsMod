@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" class="light-style">
+    <head>
+        <meta charset="utf-8" />
+
+        <title>Nexus Collection Download</title>
+
+        <meta name="description" content="" />
+
+        <link rel="stylesheet" href="css/core.css" class="template-customizer-core-css" />
+        <link rel="stylesheet" href="css/theme-default.css" class="template-customizer-theme-css" />
+    </head>
+
+    <body>
+        <h4 class="fw-bold p-4">Nexus Collection Download</h4>
+        <div class="container flex-grow-1 container-p-y my-2">
+            <div class="col-md-12">
+                <div class="card mb-4">
+                    <h5 class="card-header">Collection Link</h5>
+                    <div class="card-body demo-vertical-spacing demo-only-element">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="collectionLink" aria-describedby="getMod" aria-label="Input" value="https://next.nexusmods.com/cyberpunk2077/collections/kqkhex?tab=mods" />
+                            <button class="btn btn-outline-primary" type="button" id="getMod">Get Mod</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <h5 class="card-header" id="collectionName">Collection Name</h5>
+                    <div class="table-responsive text-nowrap">
+                        <table class="table" id="modTable">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <!-- <th>Author</th>
+                                    <th>Category</th>
+                                    <th>Summary</th> -->
+                                    <th>Nexus Link</th>
+                                </tr>
+                            </thead>
+                            <tbody class="table-border-bottom-0">
+                                <tr style="display: none">
+                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i><strong></strong></td>
+                                    <!-- <td></td>
+                                    <td></td>
+                                    <td></td> -->
+                                    <td><a href="" data-id="nxmLink"></a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="buy-now" style="display: none">
+            <button href="#" target="_blank" class="btn btn-danger btn-buy-now">Download</button>
+        </div>
+        <script src="nexusmods.js"></script>
+    </body>
+</html>
