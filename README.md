@@ -1,4 +1,4 @@
-**Phải cằi đặt Vortex** trước khi sử dụng
+**Phải cằi đặt Vortex trước khi sử dụng**
 
 **Cách cài đặt Extension này**
 - Tải phần source này về giải nén file zip ra một thư mục.
